@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pratyush Sharma</h1>
+<img src="banner.png" style="display: block; margin-left: auto; margin-right: auto;">
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
