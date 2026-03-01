@@ -27,7 +27,7 @@
 <a href="https://codepen.io/pratyush-sharma-2710" target="_blank">
   <img src="https://skillicons.dev/icons?i=codepen" height="50"/>
 </a>
-<a href="https://instagram.com/pratyush.sharma2710" target="_blank">
+<a href="https://instagram.com/sharma.pratyush2710" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
 <a href="https://github.com/pratyushsharma27" target="_blank">
