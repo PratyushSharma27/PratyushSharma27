@@ -2,9 +2,9 @@
 <!-- 🚀 HEADER BANNER & TYPING ANIMATION                             -->
 <!-- ================================================================= -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,24,28&height=220&section=header&text=Pratyush%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20of%20Tenimal%20%7C%20Full-Stack%20Web%20%26%20App%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
-</div>
+<p align="center">
+  <img src="banner.png" width="100%" alt="Pratyush Sharma Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Pratyush Sharma</h1>
 <h3 align="center">🚀 Founder & CEO of Tenimal | 💻📱 Full-Stack Web & App Developer</h3>
