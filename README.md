@@ -67,7 +67,7 @@ core_philosophy: "Build fast, think in scalable systems, turn ideas into product
 - 🚀 **Founder & CEO of [Tenimal](https://tenimal.com)** — Building the future of creator-led education. Bridging the gap between viral short-form discoverability and structured, premium academy learning.
 - 💻 **Full-Stack Web Developer** — Designing modern, performant, and responsive web platforms with **React, Next.js, TypeScript, Node.js, Express, and modern CSS/Tailwind**.
 - 📱 **Mobile App Developer** — Crafting buttery-smooth, native-feeling cross-platform mobile apps for iOS and Android using **Flutter & Dart**.
-- 🧠 **AI & SaaS Builder** — Engineering intelligent products like **[ReviewAI](https://github.com/PratyushSharma27/ReviewAI)** (automated GitHub PR code reviewer) and **[StudyAi](https://github.com/PratyushSharma27/StudyAi)** (RAG-powered smart study companion).
+- 🧠 **AI &amp; SaaS Builder** — Engineering intelligent, full-stack products like **[CollabSpace](https://github.com/PratyushSharma27/CollabSpace)** (real-time collaboration SaaS), **[ReviewAI](https://github.com/PratyushSharma27/ReviewAI)** (automated PR intelligence), and **[StudyAi](https://github.com/PratyushSharma27/StudyAi)** (RAG-powered smart study companion).
 - 📚 **Creator & Mentor** — Sharing practical development workflows, tips, and architectural insights via **Code with Pratyush**.
 - ⚡ **Fun Fact**: I love taking complex, zero-to-one product visions and shipping them into high-speed production reality.
 
@@ -144,18 +144,19 @@ core_philosophy: "Build fast, think in scalable systems, turn ideas into product
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📈 Crypto & Automation Suite</h3>
+      <h3 align="center">⚡ CollabSpace</h3>
       <p align="center">
-        <b>"Real-time Intelligence & Automation"</b><br/>
-        <i>Live analytics and workflow scrapers</i>
+        <b>"All-in-One Real-Time Team Collaboration Platform"</b><br/>
+        <i>Notion + Google Docs + Slack + Trello in One Unified Experience</i>
       </p>
       <ul>
-        <li><b>Cryptocurrency-Tracker:</b> Live cryptocurrency market tracker with real-time price updates and interactive trends dashboard.</li>
-        <li><b>InstaReporter:</b> Python automated scraping and metrics generation utility.</li>
+        <li><b>Real-Time Docs:</b> Simultaneous multi-user rich-text editing with live presence cursors powered by TipTap &amp; WebSockets.</li>
+        <li><b>Workspace Ecosystem:</b> Dynamic Kanban task boards, real-time channel messaging, activity logs, and instant notifications.</li>
+        <li><b>Tech Stack:</b> React, TypeScript, Node.js, Express, Socket.IO, PostgreSQL, Supabase, Tailwind CSS.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/PratyushSharma27/Cryptocurrency-Tracker" target="_blank">
-          <img src="https://img.shields.io/badge/View-Crypto_Tracker-F59E0B?style=flat-square&logo=github&logoColor=white" alt="Crypto Tracker" />
+        <a href="https://github.com/PratyushSharma27/CollabSpace" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-CollabSpace-10B981?style=flat-square&logo=github&logoColor=white" alt="CollabSpace Repo" />
         </a>
       </p>
     </td>
